@@ -29,6 +29,6 @@ This is a free tool to convert Youtube videos to mp3. this tool is made using Py
 ---
 
 - pytube -> To install open command prompt(cmd) and type ```pip install pytube```
-- This code also using the os library but it will already be installed once Python is installed. (To install Python chack any tutorial online)
+- This code also using the os library but it will already be installed once Python is installed. (To install Python check any tutorial online)
 
 ---
