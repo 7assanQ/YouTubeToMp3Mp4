@@ -2,6 +2,8 @@
 
 **A tool to convert YouTube videos to mp3**
 
+![Toolicon](YoutubeToMp3.ico)
+
 This is a free tool to convert Youtube videos to mp3. this tool is made using Python.
 
 ---
