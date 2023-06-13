@@ -47,8 +47,6 @@ These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 
 # Libraries needed for running the source code YouTubeToMp3Mp4.py or YoutubeToMp3.py
 
----
-
 - pytube -> To install open command prompt(cmd) and type ```pip install pytube```
 - arabic-reshaper -> To install open command prompt(cmd) and type ```pip install arabic-reshaper```
 - python-bidi -> To install open command prompt(cmd) and type ```pip install python-bidi```
