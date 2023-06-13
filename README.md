@@ -1,6 +1,6 @@
 # **YouTubeToMp3 / YouTubeToMp3Mp4**
 
-**YouTubeToMp3Mp4 is the newest version(recommended download YouTubeToMp3Mp4.exe [YouTubeToMp3Mp4 link](YouTubeToMp3Mp4.exe))**
+**YouTubeToMp3Mp4 is the newest version(recommended to download [YouTubeToMp3Mp4.exe](YouTubeToMp3Mp4.exe))**
 
 **tools to convert YouTube videos to mp3 and mp4**
 
