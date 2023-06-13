@@ -1,22 +1,43 @@
-# **YouTubeToMp3**
+# **YouTubeToMp3 / YouTubeToMp3Mp4**
 
-**A tool to convert YouTube videos to mp3**
+**YouTubeToMp3Mp4 is the newest version(recommended)**
 
-![Toolicon](YoutubeToMp3.ico)
+**tools to convert YouTube videos to mp3 and mp4**
 
-This is a free tool to convert Youtube videos to mp3. this tool is made using Python.
+![Toolicon](YoutubeToMp3.ico) ![Toolicon2](YouTubeToMp3Mp4.ico)
+
+These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 
 ---
 
-- To use the tool
-  - First download the YoutubeToMp3.exe file and run it if on Windows.
-  - OR run the source code YoutubeToMp3.py (need the following Libraries to run the code if the source code YoutubeToMp3.py is used. check the libraries section).
+- To use these tools
+  - First download the YouTubeToMp3Mp4.exe or YoutubeToMp3.exe file and run it if on Windows.
+  - OR run the source code YouTubeToMp3Mp4.py or YoutubeToMp3.py (need the following Libraries to run the code if the source code YouTubeToMp3Mp4 or YoutubeToMp3.py is used. check the libraries section).
+
+---
+
+**Running YouTubeToMp3Mp4.exe**
+
+- Once this tool is runnning it will provide 4 options.
+  - 1) Convert YouTube to MP3
+  - 2) Convert YouTube to MP4
+  - 3) Open YouTubeToMp3Mp4 Folder
+  - 0) EXIT
+
+- If option 1 is choosed it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
+
+- If option 2 is choosed it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
+
+- If option 3 is choosed it will open the YouTubeToMp3Mp4 folder located on the C drive. The YouTubeToMp3Mp4 folder can be created by the user, or by choosing option 1 or 2 before using option 3.
+
+---  
+**Running YoutubeToMp3.exe**
+
+- Once this tool is runnning it will provide 2 options.
+  - 1) to convert YouTube to mp3.
+  - 0) to exit the tool. 
   
-  - Once the tool is runnning it will provide two options.
-  - Option 0 to exit the tool.
-  - Option 1 to convert YouTube to mp3. 
-  
-- If option 1 is picked then it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
+- If option 1 is choosed then it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
 
 - Wait few seconds then it will convert the video to mp3. Will respond with the name of the video on Youtube and the message "has been successfully downloaded".
 
@@ -24,11 +45,14 @@ This is a free tool to convert Youtube videos to mp3. this tool is made using Py
   
 ---
 
-# Libraries needed for running the source code YoutubeToMp3.py
+# Libraries needed for running the source code YouTubeToMp3Mp4.py or YoutubeToMp3.py
 
 ---
 
 - pytube -> To install open command prompt(cmd) and type ```pip install pytube```
-- This code also using the os library but it will already be installed once Python is installed. (To install Python check any tutorial online)
+- arabic-reshaper -> To install open command prompt(cmd) and type ```pip install arabic-reshaper```
+- python-bidi -> To install open command prompt(cmd) and type ```pip install python-bidi```
+
+- This code also using the OS library but it will be already installed once Python is installed, python-bidi might also be already installed. (To install Python check any tutorial online)
 
 ---
