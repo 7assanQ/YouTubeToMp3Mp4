@@ -1,22 +1,44 @@
-# **YouTubeToMp3 / YouTubeToMp3Mp4**
+# **YouTubeToMp3Mp4_V2.2**
 
-**YouTubeToMp3Mp4 is the newest version(recommended to download [YouTubeToMp3Mp4.exe](YouTubeToMp3Mp4.exe))**
+**YouTubeToMp3Mp4_V2.2.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V2.2.exe](YouTubeToMp3Mp4_V2.2.exe))**
 
 **tools to convert YouTube videos to mp3 and mp4**
 
-![Toolicon](YoutubeToMp3.ico) ![Toolicon2](YouTubeToMp3Mp4.ico)
+![Toolicon](icons/YoutubeToMp3.ico) ![Toolicon2](icons/YouTubeToMp3Mp4.ico)
 
 These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 
 ---
 
 - To use these tools
-  - First download the YouTubeToMp3Mp4.exe or YoutubeToMp3.exe file and run it if on Windows.
-  - OR run the source code YouTubeToMp3Mp4.py or YoutubeToMp3.py (need the following Libraries to run the code if the source code YouTubeToMp3Mp4 or YoutubeToMp3.py is used. check the libraries section).
+  - First download the YouTubeToMp3Mp4_V2.2.exe or the old files and run it if on Windows.
+  - OR run the source code YouTubeToMp3Mp4_V2.2.py or the old files (need the following Libraries to run the code if the source code YouTubeToMp3Mp4_V2.2.py or old files are used. check the libraries section).
 
 ---
 
-**Running YouTubeToMp3Mp4.exe**
+**Running YouTubeToMp3Mp4_V2.2.exe (new version)**
+
+- Once this tool is runnning it will provide 6 options.
+  - Option 1 Convert YouTube to MP3
+  - Option 2 Convert YouTube to MP4
+  - Option 3 Open YouTubeToMp3Mp4 Folder
+  - option 4 Folder path C:/YoutubeToMp3Mp4
+  - option 5 YouTube video information
+  - Option 0 EXIT
+
+- If option 1 is choosed it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
+
+- If option 2 is choosed it will ask for the video URL. Just copy the URL of the video from YouTube and paste it in the tool then press ENTER.
+
+- If option 3 is choosed it will open the YouTubeToMp3Mp4 folder located on the C drive. The YouTubeToMp3Mp4 folder can be created by the user, or by choosing option 1 or 2 before using option 3.
+
+- If option 4 is choosed it will show the available drives to choose from such as C, D, E, ... enter then number of the drive you wish to save the files on.
+
+- If option 5 is choosed it will ask for the youtube video URL, once entered it will show the video title, duration, author, views, rating, description, thumbnail URL, keywords, publish Date, and captions.
+
+---
+
+**Running YouTubeToMp3Mp4.exe (old version)**
 
 - Once this tool is runnning it will provide 4 options.
   - Option 1 Convert YouTube to MP3
@@ -30,8 +52,9 @@ These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 
 - If option 3 is choosed it will open the YouTubeToMp3Mp4 folder located on the C drive. The YouTubeToMp3Mp4 folder can be created by the user, or by choosing option 1 or 2 before using option 3.
 
----  
-**Running YoutubeToMp3.exe**
+--- 
+
+**Running YoutubeToMp3.exe (old version)**
 
 - Once this tool is runnning it will provide 2 options.
   - Option 1 to convert YouTube to mp3.
