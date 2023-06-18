@@ -1,6 +1,6 @@
-# **YouTubeToMp3Mp4_V2.3**
+# **YouTubeToMp3Mp4_V3**
 
-**YouTubeToMp3Mp4_V2.3.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V2.3.exe](YouTubeToMp3Mp4_V2.3.exe))**
+**YouTubeToMp3Mp4_V3.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V3.exe](YouTubeToMp3Mp4_V3.exe))**
 
 **tools to convert YouTube videos to mp3 and mp4**
 
@@ -11,12 +11,12 @@ These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 ---
 
 - To use these tools
-  - First download the YouTubeToMp3Mp4_V2.3.exe or the old files and run it if on Windows.
-  - OR run the source code YouTubeToMp3Mp4_V2.3.py or the old files (need the following Libraries to run the code if the source code YouTubeToMp3Mp4_V2.3.py or old files are used. check the libraries section).
+  - First download the YouTubeToMp3Mp4_V3.exe or the old files and run it if on Windows.
+  - OR run the source code YouTubeToMp3Mp4_V3.py or the old files (need the following Libraries to run the code if the source code YouTubeToMp3Mp4_V3.py or old files are used. check the libraries section).
 
 ---
 
-**Running YouTubeToMp3Mp4_V2.3.exe (new version)**
+**Running YouTubeToMp3Mp4_V2.3.exe (old version)**
 
 - Once this tool is runnning it will provide 6 options.
   - Option 1 Convert YouTube to MP3
@@ -68,12 +68,14 @@ These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
   
 ---
 
-# Libraries needed for running the source code ouTubeToMp3Mp4_V2.3.py or older files
+# Libraries needed for running the source code YouTubeToMp3Mp4_V3.py or older files
 
 - pytube -> To install open command prompt(cmd) and type ```pip install pytube```
 - arabic-reshaper -> To install open command prompt(cmd) and type ```pip install arabic-reshaper```
 - python-bidi -> To install open command prompt(cmd) and type ```pip install python-bidi```
+- tkinter
+- OS
 
-- This code also using the OS library but it will be already installed once Python is installed, python-bidi might also be already installed. (To install Python check any tutorial online)
+- This code also using the tkinter and OS library but these libraries will be already installed once Python is installed, python-bidi might also be already installed. (To install Python check any tutorial online)
 
 ---
