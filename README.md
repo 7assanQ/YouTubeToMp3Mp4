@@ -1,6 +1,6 @@
-# **YouTubeToMp3Mp4_V3**
+# **YouTubeToMp3Mp4_V3.1**
 
-**YouTubeToMp3Mp4_V3.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V3.exe](YouTubeToMp3Mp4_V3.exe))**
+**YouTubeToMp3Mp4_V3.1.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V3.1.exe](YouTubeToMp3Mp4_V3.exe))**
 
 **tools to convert YouTube videos to mp3 and mp4**
 
@@ -11,12 +11,12 @@ These are free tools to convert Youtube videos to mp3 or mp4. Made using Python.
 ---
 
 - To use these tools
-  - First download the YouTubeToMp3Mp4_V3.exe or the old files and run it if on Windows.
-  - OR run the source code YouTubeToMp3Mp4_V3.py or the old files (need the following Libraries to run the code if the source code YouTubeToMp3Mp4_V3.py or old files are used. check the libraries section).
+  - First download the YouTubeToMp3Mp4_V3.1.exe or the old files and run it if on Windows.
+  - OR run the source code YouTubeToMp3Mp4_V3.1.py or the old files (need the following Libraries to run the code if the source code YouTubeToMp3Mp4_V3.1.py or old files are used. check the libraries section).
  
 ---
 
-**Running YouTubeToMp3Mp4_V3.exe (new version)**
+**Running YouTubeToMp3Mp4_V3.1.exe (new version)**
 
 ![Toolicon3](icons/english.png) ![Toolicon4](icons/arabic.png)
 
