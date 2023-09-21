@@ -1,5 +1,7 @@
 # **YouTubeToMp3Mp4_V3.2**
 
+**This code needs to be updated whenever YouTube updates their API! or it will not work**
+
 **YouTubeToMp3Mp4_V3.2.exe is the newest version(recommended to download [YouTubeToMp3Mp4_V3.2.exe](YouTubeToMp3Mp4_V3.2.exe))**
 
 **tools to convert YouTube videos to mp3 and mp4**
